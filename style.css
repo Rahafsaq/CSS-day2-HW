@@ -1,0 +1,274 @@
+h1 {
+	margin-left: 8%;
+}
+.nav {
+	position: relative;
+}
+.logo {
+	width: 80px;
+	height: 80px;
+	display: inline;
+}
+.logo-name {
+	font-size: 30px;
+	display: inline;
+	position: absolute;
+}
+.search {
+	position: absolute;
+	background-color: #f5f5f5;
+	border-radius: 50px;
+	left: 25%;
+	top: 5%;
+	width: 700px;
+	height: 50px;
+}
+.search-text {
+	margin-left: 70px;
+}
+.material-icons {
+	display: inline;
+	position: absolute;
+	left: 25px;
+	bottom: 12px;
+}
+.language {
+	position: absolute;
+	left: 82%;
+	top: 5%;
+}
+.all-card {
+	position: relative;
+	height: 70vh;
+}
+.card-1 {
+	position: absolute;
+	background-color: #ca5008;
+	width: 250px;
+	left: 8%;
+	height: 420px;
+}
+.card_img {
+	width: 250px;
+	height: 250px;
+}
+.card-2 {
+	position: absolute;
+	background-color: #8c6991;
+	width: 250px;
+	left: 40%;
+	height: 420px;
+}
+.card-3 {
+	position: absolute;
+	background-color: #cc0008;
+	width: 250px;
+	left: 70%;
+	height: 420px;
+}
+.black-text {
+	position: absolute;
+	left: 4%;
+}
+.white-text {
+	position: absolute;
+	left: 4%;
+	color: #f5f5f5;
+}
+.five-image {
+	position: relative;
+	height: 90vh;
+	/* border: solid green; */
+}
+.img-1 {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	left: 8%;
+}
+.img-2 {
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	left: 30%;
+}
+.img-3 {
+	position: absolute;
+	width: 500px;
+	height: 627px;
+	left: 52%;
+}
+.img-4 {
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	left: 8%;
+	top: 52%;
+}
+.img-5 {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	left: 30%;
+	top: 70%;
+}
+.footer {
+	position: relative;
+	background-color: #f5f5f5;
+	height: 50vh;
+	/* border: solid purple; */
+	top: 4%;
+}
+.footer-bold-text {
+	font-weight: bold;
+}
+.footer-regular-text {
+}
+.footer-section1 {
+	position: absolute;
+	left: 20%;
+	top: 20%;
+}
+.footer-section2 {
+	position: absolute;
+	left: 46%;
+	top: 20%;
+}
+.footer-section3 {
+	position: absolute;
+	left: 70%;
+	top: 20%;
+}
+
+/* login page */
+.login-main-div {
+	position: relative;
+	border: solid black;
+	height: 60vh;
+}
+.login-text-div {
+	position: absolute;
+	top: 20%;
+	left: 8%;
+}
+.small-text {
+	position: absolute;
+	left: 8%;
+	top: 70%;
+}
+.white-button {
+	position: absolute;
+	top: 150%;
+	left: 4%;
+	width: 200px;
+	height: 35px;
+	background: white;
+	border-radius: 34px;
+	border: 1px #d9d9d9 solid;
+}
+.user-info {
+	position: relative;
+	/* border: solid green; */
+	height: 60%;
+	width: 40%;
+	top: 20%;
+	left: 45%;
+}
+.user-text-info1 {
+	font-size: 24px;
+	position: absolute;
+	left: 10%;
+}
+.user-text-info2 {
+	position: absolute;
+	font-size: 24px;
+	left: 10%;
+	top: 25%;
+}
+.user-text-info3 {
+	position: absolute;
+	font-size: 14px;
+	left: 10%;
+	top: 60%;
+}
+.hr1 {
+	position: absolute;
+	top: 44px;
+	left: 50px;
+	width: 400px;
+}
+.hr2 {
+	position: absolute;
+	top: 100px;
+	left: 50px;
+	width: 400px;
+}
+.hr3 {
+	position: absolute;
+	top: 150px;
+	left: 50px;
+	width: 90px;
+}
+
+.black-button {
+	position: absolute;
+	top: 90%;
+	left: 50px;
+	width: 400px;
+	height: 35px;
+	background: black;
+	color: aliceblue;
+	border-radius: 34px;
+}
+
+/* cart */
+.cart-div {
+	position: relative;
+	left: 20%;
+	height: 80vh;
+	width: 60vw;
+	/* border: solid red; */
+}
+.cart-button {
+	position: absolute;
+	top: 80%;
+	left: 160px;
+	width: 200px;
+	height: 35px;
+	background: #0058a3;
+	color: aliceblue;
+	border-radius: 34px;
+	border: 1px #d9d9d9 solid;
+}
+.cart-button2 {
+	position: absolute;
+	top: 80%;
+	left: 380px;
+	width: 200px;
+	height: 35px;
+	background: #0058a3;
+	color: aliceblue;
+	border-radius: 34px;
+	border: 1px #d9d9d9 solid;
+}
+.cart-img {
+	position: absolute;
+	left: 35%;
+	top: 15%;
+}
+.cart-h1 {
+	position: absolute;
+	left: 32%;
+	top: 60%;
+}
+.small-text2 {
+	position: absolute;
+	left: 32%;
+	top: 70%;
+}
+.small-text3 {
+	position: absolute;
+	left: 33%;
+	top: 90%;
+	color: #025caa;
+}
